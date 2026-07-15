@@ -1,0 +1,16 @@
+company_id,company_name,stage,count,conv_vs_prev_%,conv_vs_top_%
+C1,Altrodav Technologies,Applied,6,100.0,100.0
+C1,Altrodav Technologies,Screened,5,83.3,83.3
+C1,Altrodav Technologies,Shortlisted,4,80.0,66.7
+C1,Altrodav Technologies,Interview Scheduled,2,50.0,33.3
+C1,Altrodav Technologies,Selected,2,100.0,33.3
+C2,Bright Analytics,Applied,5,100.0,100.0
+C2,Bright Analytics,Screened,4,80.0,80.0
+C2,Bright Analytics,Shortlisted,3,75.0,60.0
+C2,Bright Analytics,Interview Scheduled,2,66.7,40.0
+C2,Bright Analytics,Selected,1,50.0,20.0
+C3,Vertex Data Labs,Applied,5,100.0,100.0
+C3,Vertex Data Labs,Screened,5,100.0,100.0
+C3,Vertex Data Labs,Shortlisted,3,60.0,60.0
+C3,Vertex Data Labs,Interview Scheduled,2,66.7,40.0
+C3,Vertex Data Labs,Selected,1,50.0,20.0

@@ -1,0 +1,51 @@
+company_id,company_name,job_id,application_id,candidate_id,stage,event_date
+C1,Altrodav Technologies,J101,APP001,CAND001,Applied,2026-06-02
+C1,Altrodav Technologies,J101,APP001,CAND001,Screened,2026-06-03
+C1,Altrodav Technologies,J101,APP001,CAND001,Shortlisted,2026-06-04
+C1,Altrodav Technologies,J101,APP001,CAND001,Interview Scheduled,2026-06-07
+C1,Altrodav Technologies,J101,APP001,CAND001,Selected,2026-06-10
+C1,Altrodav Technologies,J101,APP002,CAND002,Applied,2026-06-02
+C1,Altrodav Technologies,J101,APP002,CAND002,Screened,2026-06-03
+C1,Altrodav Technologies,J101,APP002,CAND002,Shortlisted,2026-06-04
+C1,Altrodav Technologies,J101,APP003,CAND003,Applied,2026-06-03
+C1,Altrodav Technologies,J101,APP003,CAND003,Screened,2026-06-04
+C1,Altrodav Technologies,J102,APP004,CAND010,Applied,2026-06-06
+C1,Altrodav Technologies,J102,APP004,CAND010,Screened,2026-06-07
+C1,Altrodav Technologies,J102,APP004,CAND010,Shortlisted,2026-06-08
+C1,Altrodav Technologies,J102,APP005,CAND011,Applied,2026-06-07
+C1,Altrodav Technologies,J102,APP006,CAND013,Applied,2026-06-08
+C1,Altrodav Technologies,J102,APP006,CAND013,Screened,2026-06-09
+C1,Altrodav Technologies,J102,APP006,CAND013,Shortlisted,2026-06-10
+C1,Altrodav Technologies,J102,APP006,CAND013,Interview Scheduled,2026-06-13
+C1,Altrodav Technologies,J102,APP006,CAND013,Selected,2026-06-16
+C2,Bright Analytics,J201,APP007,CAND005,Applied,2026-06-02
+C2,Bright Analytics,J201,APP007,CAND005,Screened,2026-06-03
+C2,Bright Analytics,J201,APP008,CAND006,Applied,2026-06-02
+C2,Bright Analytics,J201,APP008,CAND006,Screened,2026-06-03
+C2,Bright Analytics,J201,APP008,CAND006,Shortlisted,2026-06-05
+C2,Bright Analytics,J201,APP008,CAND006,Interview Scheduled,2026-06-08
+C2,Bright Analytics,J202,APP009,CAND014,Applied,2026-06-07
+C2,Bright Analytics,J202,APP010,CAND015,Applied,2026-06-08
+C2,Bright Analytics,J202,APP010,CAND015,Screened,2026-06-09
+C2,Bright Analytics,J202,APP010,CAND015,Shortlisted,2026-06-11
+C2,Bright Analytics,J202,APP011,CAND016,Applied,2026-06-09
+C2,Bright Analytics,J202,APP011,CAND016,Screened,2026-06-10
+C2,Bright Analytics,J202,APP011,CAND016,Shortlisted,2026-06-12
+C2,Bright Analytics,J202,APP011,CAND016,Interview Scheduled,2026-06-15
+C2,Bright Analytics,J202,APP011,CAND016,Selected,2026-06-19
+C3,Vertex Data Labs,J301,APP012,CAND017,Applied,2026-06-03
+C3,Vertex Data Labs,J301,APP012,CAND017,Screened,2026-06-04
+C3,Vertex Data Labs,J301,APP012,CAND017,Shortlisted,2026-06-05
+C3,Vertex Data Labs,J301,APP012,CAND017,Interview Scheduled,2026-06-08
+C3,Vertex Data Labs,J301,APP013,CAND018,Applied,2026-06-04
+C3,Vertex Data Labs,J301,APP013,CAND018,Screened,2026-06-05
+C3,Vertex Data Labs,J301,APP014,CAND020,Applied,2026-06-05
+C3,Vertex Data Labs,J301,APP014,CAND020,Screened,2026-06-06
+C3,Vertex Data Labs,J301,APP014,CAND020,Shortlisted,2026-06-07
+C3,Vertex Data Labs,J302,APP015,CAND022,Applied,2026-06-11
+C3,Vertex Data Labs,J302,APP015,CAND022,Screened,2026-06-12
+C3,Vertex Data Labs,J302,APP015,CAND022,Shortlisted,2026-06-13
+C3,Vertex Data Labs,J302,APP015,CAND022,Interview Scheduled,2026-06-16
+C3,Vertex Data Labs,J302,APP015,CAND022,Selected,2026-06-20
+C3,Vertex Data Labs,J302,APP016,CAND023,Applied,2026-06-12
+C3,Vertex Data Labs,J302,APP016,CAND023,Screened,2026-06-13
